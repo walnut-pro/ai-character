@@ -1,0 +1,3 @@
+pip install SpeechRecognition sounddevice load_dotenv soundfile pydub
+
+pip install openai

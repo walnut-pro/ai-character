@@ -1,0 +1,24 @@
+{
+    "kanata": {
+    "speaker_x": 0.9,
+    "speaker_y": 1.8,
+    "style": "talk"
+    },
+    "hikari": {
+        "speaker_x": 0.5,
+        "speaker_y": 3,
+        "style": "talk"
+    },
+    "kana": {
+        "speaker_x": 0.9,
+        "speaker_y": 1.8,
+        "style": "talk"
+    },
+    "asu": {
+        "speaker_x": 0.5,
+        "speaker_y": 3,
+        "style": "talk"
+    }
+}
+    
+    
